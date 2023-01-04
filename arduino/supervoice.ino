@@ -4,7 +4,7 @@ const int inter_time = 1000;
 long time = 0;
 
 void setup() {
-  Serial.begin(9600);
+  Serial.begin(11520);
   pinMode (trig, OUTPUT);
   pinMode (echo, INPUT);
   pinMode (echo, INPUT);
