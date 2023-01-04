@@ -6,7 +6,7 @@ long time = 0;
 void setup() {
   Serial.begin(11520);
   pinMode (trig, OUTPUT);
-  pinMode (echo, INPUT);
+  pinMode (echo, INPUT);112313.1
   pinMode (echo, INPUT);
 }
 
